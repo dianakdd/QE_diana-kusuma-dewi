@@ -1,7 +1,7 @@
 <h1 align="center">Resume - Software Testing Fundamental</h1>
 <h3 align="center">Diana Kusuma - Kelas QE - B</h3>
 
-<h2 align="center">Software Testing Fundamental</h1>
+<h2 align="center">Software Testing Fundamental</h2>
 
 Software testing adalah sebuah proses untuk mengalaisis item perangkat lunak untuk mendeteksi perbedaan antara kondisi yang sekarang dengan kondisi yang akan diperlukan untuk mengevaluasi fitur item perangkat lunak.
 
