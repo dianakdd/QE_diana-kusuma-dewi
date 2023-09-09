@@ -5,6 +5,8 @@
 
 [![Prioritas-1-Soal-1-a.png](https://i.postimg.cc/x8gmXnM4/Prioritas-1-Soal-1-a.png)](https://postimg.cc/xNJ87rsv)
 
+![](Prioritas-1-Soal-1-a.png)
+
 - Prioritas 1 soal 1.b
 
 [![Prioritas-1-Soal-1-b.png](https://i.postimg.cc/XNgdHcmk/Prioritas-1-Soal-1-b.png)](https://postimg.cc/SjJnj8yn)
