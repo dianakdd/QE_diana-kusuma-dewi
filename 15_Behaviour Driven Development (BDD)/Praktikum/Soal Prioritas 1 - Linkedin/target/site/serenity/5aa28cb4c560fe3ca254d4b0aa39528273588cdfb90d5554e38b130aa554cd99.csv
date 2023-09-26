@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"ReactionPost","As a User I can like Posts","SUCCESS","2023-09-27T00:15:53.1543438+07:00[Asia/Jakarta]","0.0","0.02"
+"ReactionPost","As a User I can comment Posts","SUCCESS","2023-09-27T00:15:53.1859835+07:00[Asia/Jakarta]","0.0","0.03"
+"ReactionPost","As a User I can reposted the Posts with add my opinion","SUCCESS","2023-09-27T00:15:53.2216423+07:00[Asia/Jakarta]","0.0","0.03"
+"ReactionPost","As a User I can reposted the Posts with instant repost","SUCCESS","2023-09-27T00:15:53.2592529+07:00[Asia/Jakarta]","0.0","0.02"

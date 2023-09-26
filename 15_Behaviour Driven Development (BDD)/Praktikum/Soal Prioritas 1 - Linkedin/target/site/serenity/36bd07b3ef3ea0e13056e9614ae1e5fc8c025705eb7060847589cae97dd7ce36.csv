@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CreatePost","As a User I can create a Text Post","SUCCESS","2023-09-27T00:15:52.4639067+07:00[Asia/Jakarta]","0.0","0.46"
+"CreatePost","As a User I can Post Photos","SUCCESS","2023-09-27T00:15:52.9400788+07:00[Asia/Jakarta]","0.0","0.04"
+"CreatePost","As a User I can Post Video","SUCCESS","2023-09-27T00:15:52.9925687+07:00[Asia/Jakarta]","0.0","0.04"
+"CreatePost","As a User I can Create a Article Post","SUCCESS","2023-09-27T00:15:53.0393157+07:00[Asia/Jakarta]","0.0","0.04"
+"CreatePost","As a User I can Create a Program Post","SUCCESS","2023-09-27T00:15:53.0881578+07:00[Asia/Jakarta]","0.0","0.05"

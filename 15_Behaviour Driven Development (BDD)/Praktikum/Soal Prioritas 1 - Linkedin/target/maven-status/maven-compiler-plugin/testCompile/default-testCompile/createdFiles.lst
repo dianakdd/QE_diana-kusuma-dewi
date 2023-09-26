@@ -1,0 +1,6 @@
+starter\CucumberTestSuite.class
+starter\Linkedin\ScrollUp.class
+starter\Linkedin\SortBy.class
+starter\stepdefinitions\AllSteps.class
+starter\Linkedin\CreatePost.class
+starter\Linkedin\ReactionPost.class
