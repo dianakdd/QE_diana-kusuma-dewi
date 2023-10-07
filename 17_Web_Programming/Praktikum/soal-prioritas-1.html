@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digital Library</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="black-box">
+        <h2>Welcome to Digital Library</h2>
+        <h4>Create a new member</h4>
+        <form>
+          <div class="form-group">
+            <label for="nama" class="form-label">Nama:</label>
+            <input
+              type="text"
+              id="nama"
+              name="nama"
+              required
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="email" class="form-label">Email:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="password" class="form-label">Password:</label>
+            <input
+              type="password"
+              id="password"
+              name="password"
+              required
+              class="form-input"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="tel" class="form-label">Phone Number:</label>
+            <input type="tel" id="tel" name="tel" required class="form-input" />
+          </div>
+
+          <div class="form-group">
+            <label for="address" class="form-label">Address:</label>
+            <textarea
+              id="address"
+              name="address"
+              rows="4"
+              required
+              class="form-input"
+            ></textarea>
+          </div>
+
+          <div class="form-group">
+            <label class="form-label">Gender:</label>
+            <div class="radio-group">
+              <input
+                type="radio"
+                id="male"
+                name="gender"
+                value="male"
+                required
+              />
+              <label for="male">Male</label>
+            </div>
+            <div class="radio-group">
+              <input
+                type="radio"
+                id="female"
+                name="gender"
+                value="female"
+                required
+              />
+              <label for="female">Female</label>
+            </div>
+          </div>
+
+          <div class="register-button-container">
+            <button type="submit">Register</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
