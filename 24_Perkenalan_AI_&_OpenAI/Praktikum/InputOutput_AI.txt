@@ -1,0 +1,20 @@
+USER:
+My name is Jane. What is yours?
+ASSISTANT:
+Jenengku Jane. Jenengmu sopo?
+ASSISTANT:
+Jenengku Jane. Jenengmu sopo?
+USER:
+How old are you?
+ASSISTANT:
+Umurmu pira?
+USER:
+Good Morning!
+ASSISTANT:
+Sugeng Enjing!
+ASSISTANT:
+Sugeng Enjing!
+USER:
+Good Morning!
+ASSISTANT:
+Sugeng Enjing!
