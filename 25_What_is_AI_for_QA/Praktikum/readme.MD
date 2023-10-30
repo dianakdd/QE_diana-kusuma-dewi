@@ -11,7 +11,7 @@ Tentu saja, karena testing secara manual test step akan lebih detail serta lebih
 - 📄 Link Jawaban [https://docs.google.com/spreadsheets/d/1KM2OGu5zc9nGAU4tuHhL_CJJRHJTysKO/edit#gid=1660673620](https://docs.google.com/spreadsheets/d/1KM2OGu5zc9nGAU4tuHhL_CJJRHJTysKO/edit#gid=1660673620)
 
 **b. Test Case AI**
-- 📄 Link Jawaban [https://docs.google.com/spreadsheets/d/1KM2OGu5zc9nGAU4tuHhL_CJJRHJTysKO/edit#gid=1660673620](https://docs.google.com/spreadsheets/d/1KM2OGu5zc9nGAU4tuHhL_CJJRHJTysKO/edit#gid=1660673620)
+- 📄 Link Jawaban [https://docs.google.com/spreadsheets/d/19BRXAMTt1f23XKwra-VqXkVD-d1DitoC/edit#gid=475950435](https://docs.google.com/spreadsheets/d/19BRXAMTt1f23XKwra-VqXkVD-d1DitoC/edit#gid=475950435)
 
 **c. Jelaskan perbedaan antara pembuatan test case dan scenario secara manual dan menggunakan tools.**
 perbedaan sangat terlihat pada bagian test steps dimana pada manual testing qa akan lebih detail menjelaskan step yang dimaksud sedangkan pada AI hanya dijelaskan secara umum tidak begitu detail. Pada AI tidak terdapat terkait test tittle, sedangkan ketika manual testing sudah pasti ada
